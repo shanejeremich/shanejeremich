@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+##Top Skills
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+
 <!--
 **sjeremich23/sjeremich23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
