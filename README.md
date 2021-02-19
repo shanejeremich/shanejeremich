@@ -6,11 +6,13 @@ My name is Shane Jeremich. I'm an aspiring web developer. I have experience work
 
 ---
 
+</br>
 - 🔭 I’m currently working on a city stats project using okta authentication and mapbox gl [CitySpire](https://github.com/Lambda-School-Labs/cityspire-d-fe)
 - 🌱 I’m currently learning &nbsp;&nbsp; <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 - 💬 Ask me about Full Stack Web Development
 - 📫 How to reach me: contact@shanejeremich.com
 - ⚡ Fun fact: I love to play soccer
+</br>
 
 ---
 
