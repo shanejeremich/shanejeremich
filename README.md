@@ -4,7 +4,6 @@ My name is Shane Jeremich. I'm an aspiring web developer. I have experience work
 
 
 ### Techs & Skills 
-
 </br>
 <p align="left>
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
