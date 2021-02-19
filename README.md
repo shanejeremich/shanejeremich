@@ -50,3 +50,5 @@ My name is Shane Jeremich. I'm an aspiring web developer. I have experience work
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjeremich23&layout=compact&theme=dark" />
 </p>
+
+</br></br>
