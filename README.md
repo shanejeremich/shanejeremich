@@ -1,10 +1,10 @@
 ### Hi there 👋
+---
+
 </br>
 My name is Shane Jeremich. I'm an aspiring web developer. I have experience working with multiple teams on different projects as a front-end and back-end developer. My previous work experience includes working remotely with different teams on several different projects in different roles ranging from front-end and back-end. My top skills are React, Javascript, Nodejs, Express. The roles I'm looking for would include either an internship, apprenticeship, junior web developer as a front-end or full-stack web developer.</br></br></br>
 
-
-
-
+---
 
 - 🔭 I’m currently working on a city stats project using okta authentication and mapbox gl [CitySpire](https://github.com/Lambda-School-Labs/cityspire-d-fe)
 - 🌱 I’m currently learning &nbsp;&nbsp; <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
