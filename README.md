@@ -12,6 +12,7 @@ My name is Shane Jeremich. I'm an aspiring web developer. I have experience work
 - 📫 How to reach me: contact@shanejeremich.com
 - ⚡ Fun fact: I love to play soccer
 
+---
 
 ### Techs & Skills 
 </br>
@@ -34,7 +35,7 @@ My name is Shane Jeremich. I'm an aspiring web developer. I have experience work
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
 </p>
 
-
+---
 
 </br></br>
 <p align="center">
