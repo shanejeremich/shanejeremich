@@ -17,6 +17,7 @@ My name is Shane Jeremich. I'm an aspiring web developer. I have experience work
 
 
 </br>
+![Profile views](https://gpvc.arturio.dev/sjeremich23)  <img src="https://img.shields.io/github/followers/sjeremich23?label=Follow" style=" float:left, margin-right:10px" />
 
 ---
 
