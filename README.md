@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</br></br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sjeremich23&show_icons=true&theme=dark" />
 </p>
