@@ -50,5 +50,8 @@ My name is Shane Jeremich. I'm an aspiring web developer. I have experience work
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjeremich23&layout=compact&theme=dark" />
 </p>
+<p align="center">
+[![Shane's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sjeremich23)]
+  </p>
 
 </br></br>
