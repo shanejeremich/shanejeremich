@@ -52,7 +52,7 @@ My name is Shane Jeremich. I'm an aspiring web developer. I have experience work
 </p>
 <p align="center">
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sjeremich23&theme=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sjeremich23&layout=compact" />
   </p>
 
 </br></br>
