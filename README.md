@@ -10,7 +10,7 @@ My name is Shane Jeremich. I'm an aspiring web developer. I have experience work
 
 
 - 🌱 I’m currently learning &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-- 🔭 I’m currently working on a city stats project using Okta authentication and Mapbox GL &nbsp;&nbsp;&nbsp;&nbsp; [CitySpire](https://github.com/Lambda-School-Labs/cityspire-d-fe)
+- 🔭 I’m currently working on a city stats project using Okta authentication and Mapbox GL &nbsp;&nbsp; [CitySpire](https://github.com/Lambda-School-Labs/cityspire-d-fe)
 - 💬 Ask me about Full Stack Web Development
 - 📫 How to reach me: contact@shanejeremich.com
 - ⚡ Fun fact: I love to play soccer ⚽ - Go Manchester United/LA Galazy!
