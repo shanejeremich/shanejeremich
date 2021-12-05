@@ -65,3 +65,8 @@ My name is Shane Jeremich. I'm an aspiring web developer. I have experience work
   </p>
 
 </br></br>
+                                                                                                    
+[website]: https://shanejeremich.com
+[youtube]: https://youtube.com/sjeremich23
+[twitter]: https://twitter.com/sjeremich23
+[linkedin]: http://linkedin.com/in/shanejeremich/
