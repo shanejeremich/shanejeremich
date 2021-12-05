@@ -27,7 +27,9 @@ My name is Shane Jeremich. I'm an aspiring web developer. I have experience work
 [<img align="left" alt="sjeremich23 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="shanejeremich | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+
 </br>
+
 
 ### Techs & Skills 
 </br>
