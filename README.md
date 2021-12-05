@@ -17,7 +17,6 @@ My name is Shane Jeremich. I'm an aspiring web developer. I have experience work
 - ⚡ Fun fact: I love to play soccer ⚽ - Go Manchester United/LA Galaxy!
 - 🎖  I'm a U.S. Veteran 
 
-
 </br>
 
 ### Connect with me:
