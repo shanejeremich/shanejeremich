@@ -13,7 +13,7 @@ My name is Shane Jeremich. I'm an aspiring web developer. I have experience work
 - 🔭 I’m currently working on a city stats project using Okta authentication and Mapbox GL [CitySpire](https://github.com/Lambda-School-Labs/cityspire-d-fe)
 - 💬 Ask me about Web Development
 - 📫 How to reach me: contact@shanejeremich.com
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play soccer ⚽ - Go Manchester United/LA Galaxy!
 - 🎖  I'm a U.S. Veteran 
 
