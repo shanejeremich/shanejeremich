@@ -31,7 +31,7 @@ My name is Shane Jeremich. I'm an aspiring web developer. I have experience work
 
 
 <p align="center">
-  <h2 align="center">TECHS & SKILLS:</h2>
+  <h3 align="center">TECHS & SKILLS:</h3>
 </p>
 
 </br>
