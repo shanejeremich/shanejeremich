@@ -20,8 +20,9 @@ My name is Shane Jeremich. I'm an aspiring web developer. I have experience work
 </br>
 </br>
 
-
-### CONNECT WITH ME:
+<p align="center">
+  <h3>CONNECT WITH ME:</h3>
+</p>
 
 <p align="center">
 <a href="https://shanejeremich.com">
