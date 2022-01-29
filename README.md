@@ -25,24 +25,19 @@ My name is Shane Jeremich. I'm an aspiring web developer. I have experience work
 </p>
 
 <p align="center">
-<a href="https://shanejeremich.com">
-  <img align="center" alt="shanejeremich.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-</a>
-  
-<a href="https://youtube.com/channel/UCmDn7ZuKkjypPYKXt1r65Lw" style="margin: 32px;">
-  <img align="center" alt="sjeremich23 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-  
-<a href="https://twitter.com/shanejeremich">
-  <img align="center" alt="sjeremich23 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-  
-<a href="http://linkedin.com/in/shanejeremich/">
-  <img align="center" alt="shanejeremich | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
+  <a href="https://shanejeremich.com">
+    <img align="center" alt="shanejeremich.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+  </a>
+  <a href="https://youtube.com/channel/UCmDn7ZuKkjypPYKXt1r65Lw" style="margin: 32px;">
+    <img align="center" alt="sjeremich23 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  </a>
+  <a href="https://twitter.com/shanejeremich">
+    <img align="center" alt="sjeremich23 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="http://linkedin.com/in/shanejeremich/">
+    <img align="center" alt="shanejeremich | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
 </p>
-</br>
 
 </br>
 </br>
@@ -52,7 +47,6 @@ My name is Shane Jeremich. I'm an aspiring web developer. I have experience work
   <h3 align="center">TECHS & SKILLS:</h3>
 </p>
 
-</br>
 <p align="center">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -68,6 +62,7 @@ My name is Shane Jeremich. I'm an aspiring web developer. I have experience work
   <img align="center" alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
   <img align="center" alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
 </p>
+
 </br>
 
 ---
