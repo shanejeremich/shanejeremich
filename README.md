@@ -25,15 +25,15 @@ My name is Shane Jeremich. I'm an aspiring web developer. I have experience work
   <img align="center" alt="shanejeremich.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
   
-<a href=[youtube]>
+<a href="https://youtube.com/channel/UCmDn7ZuKkjypPYKXt1r65Lw">
   <img align="center" alt="sjeremich23 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
   
-<a href="https://shanejeremich.com">
+<a href="https://twitter.com/shanejeremich">
   <img align="center" alt="sjeremich23 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
   
-<a href="https://shanejeremich.com">
+<a href="http://linkedin.com/in/shanejeremich/">
   <img align="center" alt="shanejeremich | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
