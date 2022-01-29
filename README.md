@@ -39,7 +39,7 @@ My name is Shane Jeremich. I'm an aspiring web developer. I have experience work
   </a>
 </p>
 
-</br>
+ ---
 </br>
 
 
