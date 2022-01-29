@@ -20,11 +20,28 @@ My name is Shane Jeremich. I'm an aspiring web developer. I have experience work
 </br>
 </br>
 
+
 ### CONNECT WITH ME:
-[<img align="center" alt="shanejeremich.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="center" alt="sjeremich23 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="center" alt="sjeremich23 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="center" alt="shanejeremich | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<p align="center">
+<a href="https://shanejeremich.com">
+  <img align="center" alt="shanejeremich.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+</a>
+  
+<a href="https://youtube.com/channel/UCmDn7ZuKkjypPYKXt1r65Lw" style="margin: 32px;">
+  <img align="center" alt="sjeremich23 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+  
+<a href="https://twitter.com/shanejeremich">
+  <img align="center" alt="sjeremich23 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+  
+<a href="http://linkedin.com/in/shanejeremich/">
+  <img align="center" alt="shanejeremich | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+</p>
+</br>
 
 </br>
 </br>
