@@ -21,7 +21,7 @@ My name is Shane Jeremich. I'm an aspiring web developer. I have experience work
 </br>
 
 <p align="center">
-  <h3>CONNECT WITH ME:</h3>
+  <h3 align="center">CONNECT WITH ME:</h3>
 </p>
 
 <p align="center">
