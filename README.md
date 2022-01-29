@@ -18,7 +18,7 @@ My name is Shane Jeremich. I'm an aspiring web developer. I have experience work
 - 🎖  I'm a U.S. Veteran 
 
 <p align="center">
-  <h2 align="center">Connect with me:</h2>
+  <h2 align="center">CONNECT WITH ME:</h2>
 </p>
 <p align="center">
 <a href="https://shanejeremich.com">
