@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Hi there 👋
 ---
 
 </br>
@@ -17,9 +17,10 @@ My name is Shane Jeremich. I'm an aspiring web developer. I have experience work
 - ⚡ Fun fact: I love to play soccer ⚽ - Go Manchester United/LA Galaxy!
 - 🎖  I'm a U.S. Veteran 
 
+</br>
+</br>
 
 ### CONNECT WITH ME:
-
 [<img align="center" alt="shanejeremich.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="center" alt="sjeremich23 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="center" alt="sjeremich23 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
