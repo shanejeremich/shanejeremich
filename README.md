@@ -28,7 +28,7 @@ My name is Shane Jeremich. I'm an aspiring web developer. I have experience work
   <a href="https://shanejeremich.com">
     <img align="center" alt="shanejeremich.com" width="22px" src="https://pics.freeicons.io/uploads/icons/png/10729243771579179427-512.png" />
   </a>
-  <a href="https://youtube.com/channel/UCmDn7ZuKkjypPYKXt1r65Lw" style="margin: 32px;">
+  <a href="https://youtube.com/channel/UCmDn7ZuKkjypPYKXt1r65Lw">
     <img align="center" alt="sjeremich23 | YouTube" width="22px" src="https://pics.freeicons.io/uploads/icons/png/16216358401530103330-512.png" />
   </a>
   <a href="https://twitter.com/shanejeremich">
