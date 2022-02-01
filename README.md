@@ -35,7 +35,7 @@ My name is Shane Jeremich. I'm an aspiring web developer. I have experience work
     <img align="center" alt="sjeremich23 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
   <a href="http://linkedin.com/in/shanejeremich/">
-    <img align="center" alt="shanejeremich | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="center" alt="shanejeremich | LinkedIn" width="22px" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" />
   </a>
 </p>
 
