@@ -43,7 +43,8 @@ I'm an aspiring web developer. I have experience working with multiple teams on 
   </a>
 </p>
 
-![YouTube Channel Views](https://img.shields.io/youtube/)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/:channelId)
+
 
 
  ---
