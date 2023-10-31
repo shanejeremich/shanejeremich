@@ -8,9 +8,9 @@
 
 ## 🚀 About Me
 
-I'm an aspiring web developer. I have experience working with multiple teams on different projects as a front-end and back-end developer. My previous work experience includes working remotely with different teams on several different projects in different roles ranging from front-end and back-end. My top skills are React, Javascript, Nodejs, Express. The roles I'm looking for would include either an internship, apprenticeship, junior web developer as a front-end or full-stack web developer.</br></br>
+I'm an aspiring web developer. I have experience working with multiple teams on different projects as a front-end and back-end developer. My previous work experience includes working remotely with different teams on several different projects in different roles ranging from front-end and back-end. My top skills are React, Javascript, Nodejs, Express. The roles I'm looking for would include either an internship, apprenticeship, junior web developer as a front-end or full-stack web developer.
 
-</br>
+<br>
 
 ## 😄 More About me
 - 🧠 I’m currently learning: &nbsp; <img alt="Postgres" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/>
