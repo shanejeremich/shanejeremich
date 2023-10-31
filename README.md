@@ -22,8 +22,6 @@ I'm an aspiring web developer. I have experience working with multiple teams on 
 - ⚡ Fun fact: I love to play soccer ⚽ - Go Manchester United/LA Galaxy!
 - 🎖  I'm a U.S. Veteran 
 
-</br>
-</br>
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shanejeremich.com)
