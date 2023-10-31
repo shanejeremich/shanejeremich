@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm an aspiring web developer. I have experience working with multiple teams on different projects as a front-end and back-end developer. My previous work experience includes working remotely with different teams on several different projects in different roles ranging from front-end and back-end. With a solid foundation from Bloom Institute of Technology and a continued pursuit of a Bachelor of Science Degree in Web Development at Full Sail University, I am passionate about contributing to the success of dynamic teams.  My top skills are React, Javascript, Nodejs, Express. The roles I'm looking for would include either an internship, apprenticeship, junior web developer as a front-end or full-stack web developer.
+I'm an aspiring web developer. I have experience working with multiple teams on different projects as a front-end and back-end developer. My previous work experience includes working remotely with different teams on several different projects in different roles ranging from front-end and back-end. With certification of Full Stack Web Development & Computer Science from Bloom Institute of Technology and a continued pursuit of a Bachelor of Science Degree in Web Development at Full Sail University, I am passionate about contributing to the success of dynamic teams.  My top skills are React, Javascript, Nodejs, Express. The roles I'm looking for would include either an internship, apprenticeship, junior web developer as a front-end or full-stack web developer.
 
 <br>
 
