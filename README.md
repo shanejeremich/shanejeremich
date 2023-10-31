@@ -25,30 +25,10 @@ I'm an aspiring web developer. I have experience working with multiple teams on 
 </br>
 </br>
 
-<p align="center">
-  <h3 align="center">CONNECT WITH ME:</h3>
-</p>
-
-<p align="center">
-  <a href="https://shanejeremich.com">
-    <img align="center" alt="shanejeremich.com" width="40px" src="https://pics.freeicons.io/premium/www-icon-325945-256.png" />
-  </a>
-  <a href="https://youtube.com/channel/UCmDn7ZuKkjypPYKXt1r65Lw">
-    <img align="center" alt="sjeremich23 | YouTube" width="40px" src="https://pics.freeicons.io/uploads/icons/png/16216358401530103330-512.png" />
-  </a>
-  <a href="https://twitter.com/shanejeremich">
-    <img align="center" alt="sjeremich23 | Twitter" width="40px" src="https://pics.freeicons.io/uploads/icons/png/16438666591561032650-512.png" />
-  </a>
-  <a href="http://linkedin.com/in/shanejeremich/">
-    <img align="center" alt="shanejeremich | LinkedIn" width="40px" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" />
-  </a>
-</p>
-</br>
-
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shanejeremich.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/shanejeremich/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shanejeremich)
 
 
 ## 🛠 TECHS & SKILLS
