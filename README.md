@@ -1,5 +1,4 @@
 # Hi there 👋
----
 
 ![Logo](https://www.shanejeremich.com/static/media/sj-high-res.e8f0d363aeeddc4cd574.png)
 
