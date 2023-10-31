@@ -1,5 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 ---
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+
 
 </br>
 My name is Shane Jeremich. I'm an aspiring web developer. I have experience working with multiple teams on different projects as a front-end and back-end developer. My previous work experience includes working remotely with different teams on several different projects in different roles ranging from front-end and back-end. My top skills are React, Javascript, Nodejs, Express. The roles I'm looking for would include either an internship, apprenticeship, junior web developer as a front-end or full-stack web developer.</br></br>
@@ -9,11 +13,12 @@ My name is Shane Jeremich. I'm an aspiring web developer. I have experience work
 </br>
 
 
-- 🌱 I’m currently learning: &nbsp; <img alt="Postgres" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/>
-- 🔭 I’m currently working on a city stats project using Okta authentication and Mapbox GL [CitySpire](https://github.com/Lambda-School-Labs/cityspire-d-fe)
+- 🧠 I’m currently learning: &nbsp; <img alt="Postgres" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/>
+- 👩‍💻 I’m currently working on class projects at Full Sail University
 - 💬 Ask me about Web Development
-- 📫 How to reach me: shane.jeremich@gmail.com
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 📫 How to reach me: contact@shanejeremich.com
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- 👯‍♀️ I'm looking to collaborate on any frontend developer projects, vanilla JAvaScript or React
 - ⚡ Fun fact: I love to play soccer ⚽ - Go Manchester United/LA Galaxy!
 - 🎖  I'm a U.S. Veteran 
 
