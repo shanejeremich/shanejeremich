@@ -1,11 +1,11 @@
-# Hi there 👋
+# Hi, I'm Shane Jeremich. 👋
 
+<p align="center">
 ![Logo](https://www.shanejeremich.com/static/media/sj-high-res.e8f0d363aeeddc4cd574.png)
-
-
+</p>
 
 </br>
-My name is Shane Jeremich. I'm an aspiring web developer. I have experience working with multiple teams on different projects as a front-end and back-end developer. My previous work experience includes working remotely with different teams on several different projects in different roles ranging from front-end and back-end. My top skills are React, Javascript, Nodejs, Express. The roles I'm looking for would include either an internship, apprenticeship, junior web developer as a front-end or full-stack web developer.</br></br>
+ I'm an aspiring web developer. I have experience working with multiple teams on different projects as a front-end and back-end developer. My previous work experience includes working remotely with different teams on several different projects in different roles ranging from front-end and back-end. My top skills are React, Javascript, Nodejs, Express. The roles I'm looking for would include either an internship, apprenticeship, junior web developer as a front-end or full-stack web developer.</br></br>
 
 ---
 
