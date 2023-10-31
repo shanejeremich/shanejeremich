@@ -1,5 +1,4 @@
 # Hi, I'm Shane Jeremich. 👋
----
 
 <p align="center">
   <img width="460" height="248.23" src="https://www.shanejeremich.com/static/media/sj-high-res.e8f0d363aeeddc4cd574.png">
