@@ -1,4 +1,4 @@
-### Hi, I'm Shane Jeremich. 👋
+## Hi, I'm Shane Jeremich. 👋
 ---
 
 <p align="center">
