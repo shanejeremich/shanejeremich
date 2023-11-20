@@ -57,13 +57,13 @@ My primary skills include React, JavaScript, HTML, CSS/SASS, Node.js, and Expres
 
 </br></br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sjeremich23&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shanejeremich&show_icons=true&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjeremich23&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanejeremich&layout=compact&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sjeremich23&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shanejeremich&layout=compact" />
   </p>
 
 </br></br>
