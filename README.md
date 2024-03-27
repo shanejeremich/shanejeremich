@@ -15,7 +15,6 @@ My primary skills include React, JavaScript, HTML, CSS/SASS, Node.js, and Expres
 <br>
 
 ## 😄 More About me
-- 🧠 I’m currently learning: &nbsp; <img alt="Postgres" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/>
 - 👩‍💻 I’m currently working on class projects at Full Sail University
 - 💬 Ask me about Web Development
 - 📫 How to reach me: contact@shanejeremich.com
