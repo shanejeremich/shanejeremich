@@ -8,9 +8,9 @@
 
 ## 🚀 About Me
 
-I'm an aspiring web developer. I have experience working with multiple teams on different projects as a front-end and back-end developer.  I have extensive remote work experience, which has allowed me to contribute effectively to numerous projects. I am certified in Full Stack Web Development & Computer Science from Bloom Institute of Technology, and I am currently pursuing a Bachelor of Science Degree in Web Development at Full Sail University. I am passionate about making significant contributions to dynamic teams.
+I'm an aspiring web developer. I have experience working with multiple teams on different projects as a front-end and back-end developer.  I have extensive remote work experience, which has allowed me to contribute effectively to numerous projects. I am certified in Full Stack Web Development & Computer Science from Bloom Institute of Technology, and I also hold a Bachelor of Science Degree in Web Development at Full Sail University. I am passionate about making significant contributions to dynamic teams.
 
-My primary skills include React, JavaScript, HTML, CSS/SASS, Node.js, and Express. I am currently seeking opportunities for internships, apprenticeships, or position as a junior web developer, either focusing on front-end or full-stack web development.
+My primary skills include React, JavaScript, HTML, CSS/SASS, Node.js, and Express. I am currently seeking opportunities for internships, apprenticeships, or a position as a junior web developer, either focusing on front-end or full-stack web development.
 
 <br>
 
@@ -19,7 +19,7 @@ My primary skills include React, JavaScript, HTML, CSS/SASS, Node.js, and Expres
 - 💬 Ask me about Web Development
 - 📫 How to reach me: contact@shanejeremich.com
 - 🥅 2024 Goals: Contribute more to Open Source projects
-- 👯‍♀️ I'm looking to collaborate on any frontend developer projects, vanilla JAvaScript or React
+- 👯‍♀️ I'm looking to collaborate on any frontend developer projects, vanilla JavaScript, or React
 - ⚡ Fun fact: I love to play soccer ⚽ - Go Manchester United/LA Galaxy!
 - 🎖  I'm a U.S. Veteran 
 
