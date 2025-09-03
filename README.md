@@ -15,10 +15,10 @@ My primary skills include React, JavaScript, HTML, CSS/SASS, Node.js, and Expres
 <br>
 
 ## 😄 More About me
-- 👩‍💻 I’m currently working on class projects at Full Sail University
+- 👩‍💻 I'm currently working on class projects at Full Sail University
 - 💬 Ask me about Web Development
 - 📫 How to reach me: contact@shanejeremich.com
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - 👯‍♀️ I'm looking to collaborate on any frontend developer projects, vanilla JavaScript, or React
 - ⚡ Fun fact: I love to play soccer ⚽ - Go Manchester United/LA Galaxy!
 - 🎖  I'm a U.S. Veteran 
